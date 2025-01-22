@@ -384,3 +384,17 @@ nav {
     padding-left: 35px;
   }
 }
+@media (width > 250px) {
+  .header__content .section__header {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 5rem;
+}
+}
+@media (width > 450px) {
+  .header__content .section__header {
+    font-size:4rem;
+    font-weight: 600;
+    line-height: 5rem;
+}
+}
